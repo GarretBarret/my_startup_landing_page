@@ -6,3 +6,9 @@ We are people
 
 [Contact]
 Third planet from Sun
+
+[Features]
+Shiny
+
+[Blog]
+Something Intresting
