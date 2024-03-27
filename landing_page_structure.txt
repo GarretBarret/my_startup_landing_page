@@ -2,5 +2,6 @@
 Out planet Earth
 
 [About us]
+We are people
 
 [Contact]
