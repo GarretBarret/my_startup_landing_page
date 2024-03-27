@@ -1,0 +1,23 @@
+commit a5627bea6a5e8f3da3bbd78e0c1171b5fe7e65a3
+Author: Serhii Bardin <s.bardin@mail.ua>
+Date:   Wed Mar 27 10:50:30 2024 +0200
+
+    Landing page - Contact details
+
+commit 10ede23c6b0c04266df58d9f9d948eb7ec6a35a2
+Author: Serhii Bardin <s.bardin@mail.ua>
+Date:   Wed Mar 27 10:49:29 2024 +0200
+
+    Landing page - About us details
+
+commit 6497aec2f6eee906057e7f901250af89a478f01f
+Author: Serhii Bardin <s.bardin@mail.ua>
+Date:   Wed Mar 27 10:49:05 2024 +0200
+
+    Landing page - Home details
+
+commit d696a68cc1c6b46a31d7795c1930fafafccaa2b3
+Author: Serhii Bardin <s.bardin@mail.ua>
+Date:   Wed Mar 27 10:48:01 2024 +0200
+
+    Landing page template
