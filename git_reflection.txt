@@ -1,0 +1,11 @@
+*   ab043e6 - (2 weeks ago) Final text - Serhii Bardin (HEAD -> master)
+|\  
+| * 5fde3be - (2 weeks ago) Landing page - Blog details - Serhii Bardin (feature_section) <-wrong description
+* | e0b7d45 - (2 weeks ago) Landing page - Blog details - Serhii Bardin (feature_blog)
+* | ec24123 - (2 weeks ago) Landing page - Feature details - Serhii Bardin
+|/  
+* 152ceec - (2 weeks ago) Changelog - Serhii Bardin <-atomic
+* a5627be - (2 weeks ago) Landing page - Contact details - Serhii Bardin <-atomic
+* 10ede23 - (2 weeks ago) Landing page - About us details - Serhii Bardin <-atomic
+* 6497aec - (2 weeks ago) Landing page - Home details - Serhii Bardin <-atomic
+* d696a68 - (2 weeks ago) Landing page template - Serhii Bardin
